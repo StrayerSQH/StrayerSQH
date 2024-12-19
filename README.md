@@ -1,6 +1,5 @@
 # Hello world! This is StrayerSQH!👋
- ![Badge](https://img.shields.io/badge/College%20of%20Computer%20Science%20,%20Sichuan%20University-Ungergrate(2023)-COLOR)<br>
-:mortar_board:This is an undergraduate student majoring in Computer Science and Technology at the College of Computer Science, Sichuan University, class of 2023.
+![Badge](https://img.shields.io/badge/College%20of%20Computer%20Science%20,%20Sichuan%20University-Ungergrate(2023)-COLOR)<br>
 
 ## About Me
 github follow         /github/followers/:user?label=Follow
