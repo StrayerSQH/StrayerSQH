@@ -1,7 +1,9 @@
 # Hello world! This is StrayerSQH!👋
-![Badge](https://img.shields.io/badge/College%20of%20Computer%20Science%20,%20Sichuan%20University-Ungergrate(2023)-COLOR)  ![Badge](https://img.shields.io/badge/Grade-2-FFA500)<br>
+![Badge](https://img.shields.io/badge/College%20of%20Computer%20Science%20,%20Sichuan%20University-Ungergrate(2023)-COLOR)  ![Badge](https://img.shields.io/badge/Grade-2-FFA500)
 ----------------
-![IoT](https://img.shields.io/badge/IoT-Projects-critical) ![Autonomous Vehicle](https://img.shields.io/badge/Autonomous%20Vehicle-Projects-yellow) ![Arduino](https://img.shields.io/badge/Arduino-Skills-orange)
+![IoT](https://img.shields.io/badge/IoT-Projects-critical) ![Autonomous Vehicle](https://img.shields.io/badge/Source%20Seeking-Projects-critical) ![Autonomous Vehicle](https://img.shields.io/badge/Autonomous%20Vehicle-Projects-critical) ![Arduino](https://img.shields.io/badge/Arduino-Skills-yellow)
+---------------
+[![CSDN](https://img.shields.io/badge/CSDN-StrayerSQH-blue)](https://blog.csdn.net/StrayerSQH)
 
 🚀 Hello there! I'm StrayerSQH, a budding enthusiast in the world of computers and technology. As a newcomer to the field, I'm just starting my journey, but I'm committed to learning and growing every single day.
 ## About Me
@@ -33,3 +35,7 @@
 ## My Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrayerSQH&repo=StrayerSQH_Learning&color=dark&show_owner )](https://github.com/StrayerSQH/StrayerSQH_Learning)
      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrayerSQH&repo=SCU-Program-Practice&color=dark&show_owner )](https://github.com/StrayerSQH/SCU-Program-Practice)
+
+## Accounts on other platforms
+
+
