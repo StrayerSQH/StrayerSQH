@@ -30,4 +30,5 @@
   />
 </picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+# My Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrayerSQH&repo=StrayerSQH_Learning&color=dark)](https://github.com/StrayerSQH/StrayerSQH_Learning)
