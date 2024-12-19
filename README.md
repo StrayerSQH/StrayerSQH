@@ -30,5 +30,6 @@
   />
 </picture>
 
-# My Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrayerSQH&repo=StrayerSQH_Learning&color=dark)](https://github.com/StrayerSQH/StrayerSQH_Learning)
+## My Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrayerSQH&repo=StrayerSQH_Learning&color=dark&show_owner )](https://github.com/StrayerSQH/StrayerSQH_Learning)
+     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrayerSQH&repo=SCU-Program-Practice&color=dark&show_owner )](https://github.com/StrayerSQH/SCU-Program-Practice)
