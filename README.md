@@ -32,10 +32,6 @@
   />
 </picture>
 
-## My Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrayerSQH&repo=StrayerSQH_Learning&color=dark&show_owner )](https://github.com/StrayerSQH/StrayerSQH_Learning)
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrayerSQH&repo=SCU-Program-Practice&color=dark&show_owner )](https://github.com/StrayerSQH/SCU-Program-Practice)
-
 ## Accounts on other platforms
 :mag_right: In addition to my GitHub repositories, I also maintain a CSDN blog where I primarily use it as a space to document my notes and learnings. My blog serves as a personal notebook filled with articles on data structures, algorithm analysis, and a variety of computer science topics and so on. Click here: [StrayerSQH's CSDN Blog](https://blog.csdn.net/HelloStrayer).
 
