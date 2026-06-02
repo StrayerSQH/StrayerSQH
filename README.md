@@ -1,5 +1,5 @@
 # Hello world! This is StrayerSQH!👋
-![Badge](https://img.shields.io/badge/College%20of%20Computer%20Science%20,%20Sichuan%20University-Ungergrate(2023)-COLOR)  ![Badge](https://img.shields.io/badge/Grade-2-FFA500)
+![Badge](https://img.shields.io/badge/College%20of%20Computer%20Science%20,%20Sichuan%20University-Ungergrate(2023)-COLOR)  ![Badge](https://img.shields.io/badge/Grade-3-FFA500)
 
 ![IoT](https://img.shields.io/badge/IoT-Projects-critical) ![Autonomous Vehicle](https://img.shields.io/badge/Source%20Seeking-Projects-critical) ![Autonomous Vehicle](https://img.shields.io/badge/Autonomous%20Vehicle-Projects-critical) ![Arduino](https://img.shields.io/badge/Arduino-Skills-yellow)
 
